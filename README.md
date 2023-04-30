@@ -13,4 +13,4 @@ Next.js와 tailwind를 이용해 간단한 웹 애플리케이션을 구성해�
 
 배포링크입니다.
 
-https://imdb-project-three.vercel.app/
+https://imdb-project-v3.vercel.app/
