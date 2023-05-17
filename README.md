@@ -1,4 +1,4 @@
-#IMDB Project
+# IMDB Project
 
 Next.js와 tailwind를 이용해 간단한 웹 애플리케이션을 구성해본 프로젝트입니다.
 
@@ -20,7 +20,7 @@ https://imdb-project-v3.vercel.app/
 
 ![시연화면](https://github.com/XionWCFM/IMDB-Project/assets/101111364/519edd40-90a8-42bf-8c54-74825898867f)
 
-간단한 작
+`Next.js`의 사용법을 익히기 위해 간단한 프로젝트를 구성해보았습니다.
 
 # 폴더 구조
 
